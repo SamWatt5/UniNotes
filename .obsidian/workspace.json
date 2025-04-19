@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "6e265a18149fe17b",
+    "type": "split",
+    "children": [
+      {
+        "id": "14761db16299854a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef30f3ee4b620749",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Sem 2/CS22001 - Database Systems/Exam Revision/Practice Questions/more questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "more questions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b75c0c0822f0abd",
+    "type": "split",
+    "children": [
+      {
+        "id": "2271ae218a0c3bde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb8c10a1939bd631",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "26bb5cbdee5bc1f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d52bac9dc87aa6e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6d30600461b7c0fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "dab26e729ff796b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c116f6b4e36a98b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Year 2/Sem 2/CS22001 - Database Systems/Exam Revision/Practice Questions/more questions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for more questions"
+            }
+          },
+          {
+            "id": "d8c4a9d2b01f7c45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Year 2/Sem 2/CS22001 - Database Systems/Exam Revision/Practice Questions/more questions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from more questions"
+            }
+          },
+          {
+            "id": "84cb0bf1a3a7fdaf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2205ceaf6a0c54d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Year 2/Sem 2/CS22001 - Database Systems/Exam Revision/Practice Questions/more questions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of more questions"
+            }
+          },
+          {
+            "id": "775952df892d0fdc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ef30f3ee4b620749",
+  "lastOpenFiles": [
+    "Year 2/Sem 2/CS22001 - Database Systems/Exam Revision/Week 9 - Data Modelling in NoSQL.md",
+    "Year 2/Sem 2/CS22001 - Database Systems/1. Introduction.md",
+    "Year 2/Sem 2/CS22002 - Modern Web Stack Development/Assignment/Design Document.md",
+    "Year 2/Sem 2/Pro Cons for What module for Year 3.md",
+    "UniNotes"
+  ]
+}
