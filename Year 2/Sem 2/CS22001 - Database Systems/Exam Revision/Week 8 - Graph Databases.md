@@ -1,3 +1,4 @@
+
 # MongoDB Indexes
 Before diving into graph databases, lets discuss MongoDB indexes.
 An index is a specialized data structure that speeds up data retrieval. It stores a subset of the document's fields along with pointers to the full documents. For example, running a query like: `db.movies.find({ runtime_min: { $gt: 200 } })` benefits from an index (created with something like `db.movies.createIndex({ runtime_min: -1 })`) because it allows the database engine to quickly look up records where the runtime meets the condition. 

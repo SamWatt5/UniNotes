@@ -19,7 +19,7 @@ Involves adding more machines to distribute the load, offering near-infinite sca
 - **Availability**: Every client receives a response, even if one or more nodes are down
 - **Partition Tolerance**: The system continues to operate despite network partitions or failures
 ## Trade-offs in Practice
-The CAP theorem shows that in the event of a network partition, a distributed database can only guarantee either consistenct or availability. Different systems (CP or AP databases) are designed based on which of these qualities they prioritize
+The CAP theorem shows that in the event of a network partition, a distributed database can only guarantee either consistency or availability. Different systems (CP or AP databases) are designed based on which of these qualities they prioritize
 ## ACID vs. BASE
 - **ACID** (Atomicity, Consistency, Isolation, Durability) characterizes traditional transactional databases
 - **BASE** (basically Available, Soft-state, Eventually consistent) is used to describe many NoSQL systems. These systems relax immediate consistency guarantees to gain scalability and flexibility.

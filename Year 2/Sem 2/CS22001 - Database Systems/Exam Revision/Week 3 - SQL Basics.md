@@ -8,7 +8,7 @@ The essential database operations are summarized by the acronym **CRUDS**:
 
 ## What is SQL
 ### Definition and History
-**SQL** (Structured Query Language) is a command-line scription langage designed for interacting with relational databases. It originated in the 70s with IBM's developmentof the relational model. Despite its textual nature, SQL is designed to be highly readable and relatively easy to learn
+**SQL** (Structured Query Language) is a command-line scription language designed for interacting with relational databases. It originated in the 70s with IBM's development of the relational model. Despite its textual nature, SQL is designed to be highly readable and relatively easy to learn
 ### Key Features
 - SQL is non-procedural, so you state what information is required, rather than how to retrieve it
 - It is case-insensitive and supports a free-format style of writing commands

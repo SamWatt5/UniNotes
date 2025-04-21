@@ -20,7 +20,7 @@ The distribution of fragments and replicas across sites can follow different str
 - **Selective Replication**: A hybrid approach combining partitioning, replication, and centralisation
 Each strategy has its own advantages and trade-offs - for example, while replication offers redundancy and availability, it also increases complexity in ensuring consistency between copies.
 # Requirements for a Distributed DBMS
-To support distributed data, a DDBMS must offer everythinhg that a traditional DBMS provides, with additional features including:
+To support distributed data, a DDBMS must offer everything that a traditional DBMS provides, with additional features including:
 - **Extended communication services**: These are needed for inter-site communication
 - **Distributed query processing**: For handling queries that span multiple sites transparently
 - **Extended concurrency**: To ensure that transactions across different sites do not interfere with each other
