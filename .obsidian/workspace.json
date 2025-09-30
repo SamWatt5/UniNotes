@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "14761db16299854a",
+        "id": "210d2cbaccc0df5a",
         "type": "tabs",
         "children": [
           {
-            "id": "ef30f3ee4b620749",
+            "id": "72557ac04aa74f42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Sem 2/CS22001 - Database Systems/Exam Revision/Week 8 - Graph Databases.md",
+                "file": "Year 3/CS31001 - Theory of Computation/Week 2 Lecture 1 - Transition Function on Strings for DFA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 8 - Graph Databases"
+              "title": "Week 2 Lecture 1 - Transition Function on Strings for DFA"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 210.5
   },
   "right": {
     "id": "6d30600461b7c0fc",
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Sem 2/CS22001 - Database Systems/Exam Revision/Week 5 - Distributed Databased.md",
+                "file": "Year 3/CS31001 - Theory of Computation/Week 2 Lecture 1 - Transition Function on Strings for DFA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Week 5 - Distributed Databased"
+              "title": "Outline of Week 2 Lecture 1 - Transition Function on Strings for DFA"
             }
           },
           {
@@ -176,10 +176,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -190,24 +191,53 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "ef30f3ee4b620749",
+  "active": "775952df892d0fdc",
   "lastOpenFiles": [
-    "Year 2/Sem 2/CS22001 - Database Systems/Exam Revision/Week 5 - Distributed Databased.md",
-    "Year 2/Sem 2/CS22001 - Database Systems/Exam Revision/Week 4 - Views, Transactions and Security.md",
-    "Year 2/Sem 2/CS22001 - Database Systems/Exam Revision/Week 3 - SQL Basics.md",
-    "Year 2/Sem 2/CS22001 - Database Systems/Exam Revision/Week 10 - Data Warehousing and Mining.md",
-    "Year 2/Sem 2/CS22001 - Database Systems/Exam Revision/Week 9 - Data Modelling in NoSQL.md",
-    "Year 2/Sem 2/CS22001 - Database Systems/Exam Revision/Week 8 - Graph Databases.md",
+    "Year 3/CS31001 - Theory of Computation/Week 1 Lecture 3 - Deterministic Finite Automata.md",
+    "Year 3/CS31001 - Theory of Computation/Week 2 Lecture 1 - Transition Function on Strings for DFA.md",
+    "Year 3/CS31001 - Theory of Computation/Week 1 Lecture 1 - Introduction, Sets and Sequences.md",
+    "Year 3/CS31001 - Theory of Computation/Week 1 Lecture 2 - Alphabets, Strings and Languages.md",
+    "Year 3/CS31001 - Theory of Computation/Tutorials/Week 1.md",
+    "attachments/Pasted image 20250930121924.png",
+    "attachments/Pasted image 20250930121453.png",
+    "attachments/Pasted image 20250923113359.png",
+    "attachments",
+    "attachments/Pasted image 20250930113324.png",
+    "Year 3/CS31002 - Information and Network Security/Topic 3 - Sockets.md",
+    "Year 3/CS31002 - Information and Network Security/Topic 2 - Security Risk Assessment.md",
+    "attachments/Pasted image 20250928214012.png",
+    "attachments/Pasted image 20250928213735.png",
+    "attachments/Pasted image 20250928212840.png",
+    "attachments/Pasted image 20250928212824.png",
+    "attachments/Pasted image 20250928212801.png",
+    "attachments/Pasted image 20250928185528.png",
+    "Year 3/CS31002 - Information and Network Security/Topic 1 - Introduction to Information and Network Security.md",
+    "Year 3/CS31002 - Information and Network Security/Topic 1 Reading Summary.md",
+    "Year 3/CS31002 - Information and Network Security/Labs/Lab 1.md",
+    "Year 3/CS31002 - Information and Network Security/Information and Network Security.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Year 3/CS31001 - Theory of Computation/Tutorials/Week 1 redone.md",
+    "Year 3/CS32005 - Mobile Application Development/Ideation/Design Proposal.md",
+    "Year 3/CS32005 - Mobile Application Development/Ideation/name ideas.md",
+    "Year 3/CS32005 - Mobile Application Development/Ideation/initial idea.md",
+    "Year 3/CS31002 - Information and Network Security/Labs",
+    "Year 3/CS31001 - Theory of Computation/Tutorials",
+    "Year 3/CS32005 - Mobile Application Development/Ideation",
+    "Year 3/CS32005 - Mobile Application Development",
+    "Year 3/CS31002 - Information and Network Security/01 Topics/Topic 1 Reading Summary.md",
+    "Year 3/CS31002 - Information and Network Security/01 Topics/Topic 1 - Introduction to Information and Network Security.md",
+    "Year 3/CS31001 - Theory of Computation",
+    "Year 3/CS31002 - Information and Network Security/02 Concepts/Ransomware.md",
+    "Year 3/CS31002 - Information and Network Security/02 Concepts/CIA Triad.md",
+    "Year 3/CS31002 - Information and Network Security/04 Resources/References.md",
+    "Year 3/CS31002 - Information and Network Security/Topics/Topic 1 Reading Summary.md",
+    "Year 3/CS31002 - Information and Network Security/03 Case Studies/WannaCry.md",
+    "Year 3/CS31002 - Information and Network Security/03 Case Studies/Sony PlayStation Hack.md",
+    "Year 3/CS31002 - Information and Network Security/04 Resources",
     "Year 2/Sem 2/CS22001 - Database Systems/Exam Revision/Week 7 - MongoDB.md",
-    "Year 2/Sem 2/CS22001 - Database Systems/Exam Revision/Week 6 - NoSQL.md",
-    "README.md",
-    "Year 2/Sem 2/CS22001 - Database Systems/Exam Revision/Practice Questions/All Weeks Practice Questions.md",
-    "_config.yml",
-    "Year 2/Sem 2/CS22001 - Database Systems/Exam Revision/Practice Questions/more questions.md",
-    "Year 2/Sem 2/CS22001 - Database Systems/Exam Revision/Practice Questions/All Weeks Answers.md",
-    "Year 2/Sem 2/CS22001 - Database Systems/1. Introduction.md",
-    "Year 2/Sem 2/CS22002 - Modern Web Stack Development/Assignment/Design Document.md",
-    "Year 2/Sem 2/Pro Cons for What module for Year 3.md",
-    "UniNotes"
+    "Year 3/CS31002 - Information and Network Security/Topics/Topic 1 - Introduction to Information and Network Security.md",
+    "Year 3/CS31002 - Information and Network Security/Resources",
+    "Year 3/CS31002 - Information and Network Security/03 Case Studies/Equifax 2017.md"
   ]
 }
