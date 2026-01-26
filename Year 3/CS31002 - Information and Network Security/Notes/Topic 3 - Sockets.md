@@ -1,0 +1,8 @@
+# Introduction
+Nowadays, transmission of data from one device to another often involves some form of network.
+Information security thus mandates ensuring to keep data safe while it is being transferred over networks.
+In order to do so, the first step is to understand how computers deal with accessing the network. As other pieces of hardware in a computer, the software that manages all devices and input/output is the Operating System.
+
+## Sockets
+Most operating systems (if not all) provide network capabilities to user applications through interfaces called sockets. From a developer point of view, sockets are an API to the transport later functionalities. While most libraries dedicated to application layer protocols handle the socket creation and management for you, knowing how they work can help when troubleshooting network communication problems and ensuring information security.
+Since sockets are provided by operating systems, their specific implementation in low level languages (such as C/C++) are usually dependant on the operating systems although some cross-platform libraries also exist. However, higher level of languages such as Python provide natively in their standard library an interface to sockets which is mostly independent of the operating system. Sockets have to be handled slightly differently depending if the software acts as a client (i.e. it initiates communications) or as a server (i.e. it waits for clients communications). 

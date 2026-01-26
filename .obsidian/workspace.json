@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "210d2cbaccc0df5a",
+        "id": "d80b8263454914bb",
         "type": "tabs",
         "children": [
           {
-            "id": "72557ac04aa74f42",
+            "id": "2e5f1dbf90819b99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/CS31001 - Theory of Computation/Week 2 Lecture 1 - Transition Function on Strings for DFA.md",
+                "file": "Year 3/CS31007 - Software Architecture and Development Practices/2.2 - The Smell-Fest Continues.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 2 Lecture 1 - Transition Function on Strings for DFA"
+              "title": "2.2 - The Smell-Fest Continues"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "CPA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 200
   },
   "right": {
     "id": "6d30600461b7c0fc",
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 3/CS31001 - Theory of Computation/Week 2 Lecture 1 - Transition Function on Strings for DFA.md",
+                "file": "Year 3/CS32005 - Mobile Application Development/Ideation/Design Proposal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Week 2 Lecture 1 - Transition Function on Strings for DFA"
+              "title": "Outline of Design Proposal"
             }
           },
           {
@@ -159,16 +159,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "c6bf5b0aa2551706",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
             }
           }
         ],
@@ -187,57 +177,55 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "775952df892d0fdc",
+  "active": "2e5f1dbf90819b99",
   "lastOpenFiles": [
-    "Year 3/CS31001 - Theory of Computation/Week 1 Lecture 3 - Deterministic Finite Automata.md",
-    "Year 3/CS31001 - Theory of Computation/Week 2 Lecture 1 - Transition Function on Strings for DFA.md",
-    "Year 3/CS31001 - Theory of Computation/Week 1 Lecture 1 - Introduction, Sets and Sequences.md",
-    "Year 3/CS31001 - Theory of Computation/Week 1 Lecture 2 - Alphabets, Strings and Languages.md",
-    "Year 3/CS31001 - Theory of Computation/Tutorials/Week 1.md",
-    "attachments/Pasted image 20250930121924.png",
-    "attachments/Pasted image 20250930121453.png",
-    "attachments/Pasted image 20250923113359.png",
-    "attachments",
-    "attachments/Pasted image 20250930113324.png",
-    "Year 3/CS31002 - Information and Network Security/Topic 3 - Sockets.md",
-    "Year 3/CS31002 - Information and Network Security/Topic 2 - Security Risk Assessment.md",
-    "attachments/Pasted image 20250928214012.png",
-    "attachments/Pasted image 20250928213735.png",
-    "attachments/Pasted image 20250928212840.png",
-    "attachments/Pasted image 20250928212824.png",
-    "attachments/Pasted image 20250928212801.png",
-    "attachments/Pasted image 20250928185528.png",
-    "Year 3/CS31002 - Information and Network Security/Topic 1 - Introduction to Information and Network Security.md",
-    "Year 3/CS31002 - Information and Network Security/Topic 1 Reading Summary.md",
-    "Year 3/CS31002 - Information and Network Security/Labs/Lab 1.md",
-    "Year 3/CS31002 - Information and Network Security/Information and Network Security.md",
-    "Untitled 1.base",
+    "Year 3/CS31007 - Software Architecture and Development Practices/2.1 - Intro and Initial Smells.md",
+    "Year 3/CS31007 - Software Architecture and Development Practices/1.1 - Introduction and Motivation.md",
+    "Year 3/CS31007 - Software Architecture and Development Practices/2.4 - Our Smelltravaganza Reaches an End.md",
+    "attachments/Pasted image 20260124170700.png",
+    "Year 3/CS31007 - Software Architecture and Development Practices/2.3 - The Smellathon Perists.md",
+    "Year 3/CS31007 - Software Architecture and Development Practices/2.2 - The Smell-Fest Continues.md",
+    "Year 3/CS31007 - Software Architecture and Development Practices/1.2 - Principles of Clean Code.md",
+    "Year 3/CS31007 - Software Architecture and Development Practices/1.3 - Easy Wins and Tooling.md",
+    "Year 3/CS31007 - Software Architecture and Development Practices/Labs/Week 1.md",
+    "Year 3/CS31007 - Software Architecture and Development Practices/Labs",
+    "Untitled.md",
+    "Year 3/CS31002 - Information and Network Security/Exam Revision/Exam Sheet.md",
+    "Year 3/CS31007 - Software Architecture and Development Practices",
+    "Year 3/CS31002 - Information and Network Security/Exam Revision/Exams/2017 Exam.md",
+    "Year 3/CS31002 - Information and Network Security/Exam Revision/Exams/2016 Exam.md",
+    "Year 3/CS31001 - Theory of Computation/Class Test 2.md",
+    "Year 3/CS31002 - Information and Network Security/Exam Revision/Exams/2020 Exam.md",
+    "Year 3/CS31002 - Information and Network Security/Exam Revision/Exams/2018 Exam.md",
     "Untitled.base",
-    "Year 3/CS31001 - Theory of Computation/Tutorials/Week 1 redone.md",
-    "Year 3/CS32005 - Mobile Application Development/Ideation/Design Proposal.md",
-    "Year 3/CS32005 - Mobile Application Development/Ideation/name ideas.md",
-    "Year 3/CS32005 - Mobile Application Development/Ideation/initial idea.md",
-    "Year 3/CS31002 - Information and Network Security/Labs",
-    "Year 3/CS31001 - Theory of Computation/Tutorials",
-    "Year 3/CS32005 - Mobile Application Development/Ideation",
-    "Year 3/CS32005 - Mobile Application Development",
-    "Year 3/CS31002 - Information and Network Security/01 Topics/Topic 1 Reading Summary.md",
-    "Year 3/CS31002 - Information and Network Security/01 Topics/Topic 1 - Introduction to Information and Network Security.md",
-    "Year 3/CS31001 - Theory of Computation",
-    "Year 3/CS31002 - Information and Network Security/02 Concepts/Ransomware.md",
-    "Year 3/CS31002 - Information and Network Security/02 Concepts/CIA Triad.md",
-    "Year 3/CS31002 - Information and Network Security/04 Resources/References.md",
-    "Year 3/CS31002 - Information and Network Security/Topics/Topic 1 Reading Summary.md",
-    "Year 3/CS31002 - Information and Network Security/03 Case Studies/WannaCry.md",
-    "Year 3/CS31002 - Information and Network Security/03 Case Studies/Sony PlayStation Hack.md",
-    "Year 3/CS31002 - Information and Network Security/04 Resources",
+    "Year 2/Sem 2/CS22001 - Database Systems/Exam Revision/Practice Questions/All Weeks Answers.md",
     "Year 2/Sem 2/CS22001 - Database Systems/Exam Revision/Week 7 - MongoDB.md",
-    "Year 3/CS31002 - Information and Network Security/Topics/Topic 1 - Introduction to Information and Network Security.md",
-    "Year 3/CS31002 - Information and Network Security/Resources",
-    "Year 3/CS31002 - Information and Network Security/03 Case Studies/Equifax 2017.md"
+    "Year 3/CS31002 - Information and Network Security/Exam Revision/Readings/Topic 1.md",
+    "Year 3/CS31002 - Information and Network Security/Exam Revision/Exams/2019 Exam.md",
+    "Year 3/CS31002 - Information and Network Security/Exam Revision/Readings/Topic 6.md",
+    "Year 3/CS31002 - Information and Network Security/Exam Revision/Readings/Topic 5.md",
+    "Year 3/CS31002 - Information and Network Security/Notes/Topic 1 - Introduction to Information and Network Security.md",
+    "Year 2/Sem 2/CS22001 - Database Systems/Exam Revision/general revising/Summary.md",
+    "Year 3/CS31002 - Information and Network Security/Exam Revision/Readings/Topic 2.md",
+    "Year 3/CS31002 - Information and Network Security/Exam Revision/Readings/Topic 11.md",
+    "Year 3/CS31002 - Information and Network Security/Exam Revision/Readings/Topic 3",
+    "Year 3/CS31002 - Information and Network Security/Exam Revision/Readings/Topic 2",
+    "Year 3/CS31002 - Information and Network Security/Exam Revision/Readings/Topic 1",
+    "Year 3/CS31002 - Information and Network Security/Exam Revision/Readings",
+    "Year 3/CS31002 - Information and Network Security/Exam Revision/Exams",
+    "Year 3/CS31002 - Information and Network Security/Notes",
+    "Year 3/CS31002 - Information and Network Security/Exam Revision",
+    "attachments/Pasted image 20251128123245.png",
+    "attachments/Pasted image 20251128115943.png",
+    "attachments/Pasted image 20251128113642.png",
+    "attachments/Pasted image 20251128113634.png",
+    "attachments/Pasted image 20251128113614.png",
+    "attachments/Pasted image 20251128113604.png",
+    "attachments/Pasted image 20251118112239.png",
+    "attachments/Pasted image 20251118112209.png",
+    "attachments/Pasted image 20251118111732.png"
   ]
 }
