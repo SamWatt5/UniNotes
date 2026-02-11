@@ -1,6 +1,7 @@
 [
   "obsidian-git",
+  "copilot",
+  "obsidian-style-settings",
   "obsidian-regex-replace",
-  "obsidian-editor-shortcuts",
-  "obsidian-style-settings"
+  "obsidian-editor-shortcuts"
 ]
