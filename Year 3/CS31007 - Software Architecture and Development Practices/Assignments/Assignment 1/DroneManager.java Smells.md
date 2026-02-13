@@ -13,27 +13,35 @@ public interface Customer {
 
 public class PremiumCustomer implements Customer {
 	@Override
-	public Drone identifyDrone() {
-		// ### assume logic here to check drone features and qualities, e.g., speed, model, capacity,
-		// ### range, stealth properties catered specifically to a Premium client configuration
-		return selectedDrone;
-	}
+	public Drone selectDrone(List<Drone> availableDrones) {
+        for (Drone d : availableDrones) {
+            // ### assume logic here to check drone features and qualities, e.g., speed, model, capacity,
+            // ### range, stealth properties catered specifically to a Premium client configuration
+        }
+        return selectedDrone;
+    }
 }
 
 public class StandardCustomer implements Customer {
 	@Override
-	public Drone identifyDrone() {
-		// ### assume logic here to check drone features and qualities, e.g., speed, model, capacity,
-		// ### range, stealth properties catered specifically to a Standard client configuration
-	}
+	public Drone selectDrone(List<Drone> availableDrones) {
+        for (Drone d : availableDrones) {
+            // ### assume logic here to check drone features and qualities, e.g., speed, model, capacity,
+            // ### range, stealth properties catered specifically to a Standard client configuration
+        }
+        return selectedDrone;
+    }
 }
 
 public class GovernmentCustomer implements Customer {
 	@Override
-	public Drone identifyDrone() {
-		// ### assume logic here to check drone features and qualities, e.g., speed, model, capacity,
-		// ### range, stealth properties catered specifically to a Government client configuration
-	}
+	public Drone selectDrone(List<Drone> availableDrones) {
+        for (Drone d : availableDrones) {
+            // ### assume logic here to check drone features and qualities, e.g., speed, model, capacity,
+            // ### range, stealth properties catered specifically to a Government client configuration
+        }
+        return selectedDrone;
+    }
 }
 ```
 ### 20 - 68
