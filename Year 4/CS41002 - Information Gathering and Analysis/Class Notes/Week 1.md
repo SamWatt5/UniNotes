@@ -259,12 +259,12 @@ Fidel et al. (22004) studied how three teams searched for information together: 
 ## Judging quality: two vocabularies
 Validity and reliability matter for **all** resaerch designs and methods, but qualitative researchers often use the language of **trustworthiness**.
 
-| Quantitative term                   | Qualitative equivalent (Lincoln and Guba, 1985) | Question it asks                                                                                                     |
-| ----------------------------------- | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| Internal validity                   | Credibility                                     | Is the right thing being measured by the right method? Are the findings a believable account of participants' views? |
-| Externalvalidity (generalisability) | Transferability                                 | Can the results be applied to other settings? Is there enoguh detail for readers to judge?                           |
-| Reliability                         | Dependability                                   | Is the resaerch stable, consistent and repeatable? Is the process documented?                                        |
-| Objectivity                         | Confirmability                                  | Are the findings shaped by the data rather than the researcher's bias?                                               |
+| Quantitative term                    | Qualitative equivalent (Lincoln and Guba, 1985) | Question it asks                                                                                                     |
+| ------------------------------------ | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Internal validity                    | Credibility                                     | Is the right thing being measured by the right method? Are the findings a believable account of participants' views? |
+| External validity (generalisability) | Transferability                                 | Can the results be applied to other settings? Is there enoguh detail for readers to judge?                           |
+| Reliability                          | Dependability                                   | Is the resaerch stable, consistent and repeatable? Is the process documented?                                        |
+| Objectivity                          | Confirmability                                  | Are the findings shaped by the data rather than the researcher's bias?                                               |
 ## Checks that improve quality
 1. Pilot studies
 	- Test instruments and procedures on a small sample before the main study.
